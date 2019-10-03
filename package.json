@@ -1,0 +1,8 @@
+{
+  "name": "marcel.js",
+  "version": "1.0.0",
+  "description": "Make your CPU hot",
+  "main": "index.js",
+  "author": "Mathieu ANCELIN",
+  "license": "MIT"
+}
