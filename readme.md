@@ -1,5 +1,7 @@
 # marcel.js
 
+Make your CPU hot !!!
+
 ```sh
 yarn add marcel.js
 ```
